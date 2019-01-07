@@ -14,6 +14,6 @@ export default class NewGame extends Sprite {
         fire.y = 100;
         fire.scale = 10;
         this.addChild(fire);
-        console.log("start");
+        console.log("start1");
     }
 }
