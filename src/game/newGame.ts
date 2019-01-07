@@ -4,6 +4,7 @@ import Sprite from "starling/display/Sprite";
 import AssetManager from "starling-framework/lib/starling/utils/AssetManager";
 import App from "./app";
 
+// https://github.com/openfl/starling
 export default class NewGame extends Sprite {
 
     constructor() {
